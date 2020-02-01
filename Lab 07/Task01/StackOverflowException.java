@@ -1,0 +1,3 @@
+class StackOverflowException extends Exception {
+
+}
